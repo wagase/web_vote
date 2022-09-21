@@ -1,2 +1,3 @@
 # web_vote
-webの人気投票を自動で投票
+葬送のフリーレンの人気投票でフェルンに自動で入れる  
+https://websunday.net/frieren2022/
